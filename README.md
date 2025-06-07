@@ -1,4 +1,4 @@
-# Electric-Vehicles-Data-Analysis-using-Tableau-Dashboard
+# Electric-Vehicles-Data-Analysis-using-Tableau
 
 Link: https://public.tableau.com/app/profile/rahul.singh3581/viz/ElectricVehicles_17493268723270/ElectricVehicleDataAnalysis?publish=yes
 
